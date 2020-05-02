@@ -1,2 +1,10 @@
-azbot.py file is a web automation to see your amazon jobs profile 
-webauto.py file can be used to check your network speed using speedtest.net
+script to run as a double click executable on mac
+
+#!  /bin/bash
+python /Users/Harry/PycharmProjects/Test1/azbot.py
+
+azbot.py 
+file is a web automation to see your amazon jobs profile 
+
+webauto.py 
+file can be used to check your network speed using speedtest.net
